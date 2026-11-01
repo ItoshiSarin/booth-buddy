@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" aria-label="Booth Buddy Two Halves One Tent logo">
+<defs><linearGradient id="awning" x1="18" y1="18" x2="102" y2="50" gradientUnits="userSpaceOnUse"><stop stop-color="#FF5733"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+<rect x="6" y="6" width="108" height="108" rx="30" fill="#FAF9F5" stroke="#E7E5E4" stroke-width="4"/>
+<path d="M22 36L30 20H90L98 36C98 42.5 92.5 47 85.5 47C79 47 74 42.5 72.5 37C71 42.5 66 47 60 47C54 47 49 42.5 47.5 37C46 42.5 41 47 34.5 47C27.5 47 22 42.5 22 36Z" fill="url(#awning)"/>
+<circle cx="44" cy="59" r="8" fill="#FF5733"/><path d="M30 86C30 74.9543 38.9543 66 50 66H60V86H30Z" fill="#FF5733"/>
+<circle cx="76" cy="59" r="8" fill="#0D9488"/><path d="M90 86C90 74.9543 81.0457 66 70 66H60V86H90Z" fill="#0D9488"/>
+<circle cx="60" cy="76" r="5" fill="#FAF9F5"/><rect x="24" y="90" width="72" height="8" rx="4" fill="#18181B"/>
+</svg>
